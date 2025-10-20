@@ -18,6 +18,9 @@ Screen Chess Bot is a desktop automation agent that uses computer vision to read
 - Python 3.9+
 - Stockfish binary available on your PATH or supplied via `--engine-path`
 - Windows 10/11 (for on-screen arrow rendering; other platforms fall back to mouse-based previews)
+- Torch with CUDA is recommended.
+- Requires a Pre-Trained chess pieces detector model thats compatible with ultralytics. (Easy to train using roboflow datasets.)
+  
 
 ## Quick Start
 1. **Create & activate a virtual environment**
