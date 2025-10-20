@@ -1,0 +1,10 @@
+# Core runtime dependencies
+opencv-python
+mss
+numpy
+python-chess
+stockfish
+pyautogui
+pydantic
+ultralytics
+Pillow
