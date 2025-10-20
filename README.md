@@ -49,6 +49,7 @@ Screen Chess Bot is a desktop automation agent that uses computer vision to read
 | `--single-move-hotkeys` | Enables hotkeys (`d` suggest, `s` play once). |
 | `--engine-path` | Path to a Stockfish binary if it is not on PATH. |
 | `--yolo-weights` | Path to YOLO weights for piece detection (required). |
+| `--ui` | To launch bot with a user interface. |
 
 Run `python screen_chess_bot.py --help` to see all options.
 
